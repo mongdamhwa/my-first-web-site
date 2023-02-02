@@ -1,5 +1,5 @@
 body {
-    margin:10px;
+    margin:0;
 }
 a {
     color:black;
@@ -31,7 +31,7 @@ ol {
 }
 @media screen and (max-width:800px){
     #grid{
-    display: block!important;
+    display: block;
     }
     ol {
     border-right:none;   
