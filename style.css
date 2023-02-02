@@ -31,7 +31,7 @@ ol {
 }
 @media screen and (max-width:800px){
     #grid{
-    display:block;
+    display: block!important;
     }
     ol {
     border-right:none;   
